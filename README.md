@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=MuhammadShahzaib-shah&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- ✨ I’m currently learning **JavaScript and Frontend Web Development**
+- ✨ I’m currently learning **React JS and Frontend Web Development**
 - 📚 Studying Artificial Intelligence from DUET
 - ✉️ Reach me at **102shahzaib@gmail.com**
 - 💡 Fun fact: I can make websites faster than I can cook instant noodles 🍜
