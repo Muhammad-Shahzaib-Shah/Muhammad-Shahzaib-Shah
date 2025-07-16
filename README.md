@@ -2,6 +2,10 @@
 <h3 align="center">💻 A Passionate Frontend Web Developer from Pakistan</h3>
 
 <p align="center">
+  <img src="https://github.com/MuhammadShahzaib-shah.png" width="150" alt="My GitHub Picture" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
   <img alt="coding gif" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif" />
 </p>
 
@@ -70,10 +74,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MuhammadShahzaib-shah&show_icons=true&theme=default" alt="GitHub stats" />
+      <img src="https://github-readme-stats-demolab.vercel.app/api?username=MuhammadShahzaib-shah&show_icons=true&theme=default" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadShahzaib-shah&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats-demolab.vercel.app/api/top-langs/?username=MuhammadShahzaib-shah&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
