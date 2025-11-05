@@ -66,8 +66,9 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Shahzaib-Shah" />
+  <img src="https://streak-stats.demolab.com?user=Muhammad-Shahzaib-Shah&theme=radical&hide_border=true" />
 </p>
+
 
 ---
 
