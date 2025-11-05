@@ -51,7 +51,7 @@
 ---
 
 ## 📂 My Projects
-- ✅ [To-Do App](https://github.com/MuhammadShahzaib-shah/todo-app)
+- ✅ [To-Do App](https://github.com/Muhammad-Shahzaib-Shah/To-Do-App)
 - 🌐 [Portfolio Website](https://github.com/MuhammadShahzaib-shah/portfolio-website)
 - 🔢 [JavaScript Calculator](https://github.com/MuhammadShahzaib-shah/calculator-js)
 
